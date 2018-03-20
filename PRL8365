@@ -15,8 +15,10 @@ Hydration/Fluids
 
 Antiemetics
 All Treatment Days (Level 1): No default prophylactic antiemetics
-Treatment: Take-Home Medications	
+Treatment: Take-Home Medications
+Select ONLY one order: (Beacon AOG)
 Methotrexate (TREXALL) 2.5 mg tab, Qty: ____, Refills: 0
+Methotrexate (XATMEP) 2.5 mg/mL oral soln, Qty: ____, Refills: 0
 Take ____ tab by mouth weekly on days 1, 8, 15, 22, 29, and 36.  Take on an empty stomach (at least 1 hour before or 2 hours after food or drink except water). 
 •	DOSE = (20 mg/M2/dose) (= ____ mg) = ____ tab
 
@@ -27,19 +29,25 @@ Take ____ tab by mouth on days ________ and ____ tab on days ________.  Take at 
 •	See Appendix III for dosing guidelines.
 
 Treatment	
-VinCRIStine (ONCOVIN) (1.5 mg/M2/dose) = ____ mg (Maximum 2 mg/dose) in 0.9% saline 25 mL IVPB over 5 minutes.  Give on days 1 and 22.
+VinCRIStine (ONCOVIN) (1.5 mg/M2/dose) = ____ mg (HARD Maximum 2 mg/dose) in 0.9% saline 25 mL IVPB over 5 minutes.  Give on days 1 and 22.
 Dose Modifications	
 ~ See Section 5.0 of COG Protocol.
 
 PRN and HSR (Hypersensitivity Reaction) Medications	
 PRN Medication Orders:
-Ondansetron (ZOFRAN) (0.15 mg/Kg/dose) = ____ mg (soft Maximum 16 mg/dose) in 0.9% saline 50 mL IVPB over 15 minutes every 8 hours as needed for nausea or vomiting.  ADMIN INST: Check timing of last ondansetron dose.  Consult MD if less than 8 hours.  PHARMACIST: Change to 25 mL if child less than 1 yr old or have concerns about volume.
-DiphenhydrAMINE (BENADRYL) (1 mg/Kg/dose) = ____ mg (hard Maximum 50 mg/dose) slow IV push every 6 hours as needed for nausea or vomiting.
-LORazepam (ATIVAN) (0.025 mg/Kg/dose) =____ mg (hard Maximum 2 mg/dose) IV push every 6 hours as needed for nausea or vomiting.
-Hypersensitivity reaction (HSR)  Orders:
-DiphenhydrAMINE (BENADRYL) (1 mg/Kg/dose) = ____ mg (hard Maximum 50 mg/dose) IV push one time as needed for hypersensitivity reaction.  ADMIN INST: Notify MD if use.
-MethylPREDNISolone (SOLU-MEDROL) (1 mg/Kg/dose) = ___ mg IV push one time as needed for hypersensitivity reaction.  ADMIN INST: Notify MD if use.  
-EPINEPHrine (0.01 mg/Kg/dose) = ____ mg (hard Maximum 0.5 mg/dose) IM one time as needed for hypersensitivity reaction.  ADMIN INST: Notify MD if use.  Use a 1:1000 solution.
+Ondansetron (ZOFRAN) (0.15 mg/Kg/dose) = ____ mg (soft Maximum 16 mg/dose) in 0.9% saline 50 mL IVPB over 15 minutes every 8 hours as needed for nausea or vomiting.  ADMIN INST: Check timing of last ondansetron dose.  Consult MD if less than 8 hours.  First line medication.  PHARMACIST: Change to 25 mL if child less than 1 yr old or have concerns about volume.
+DiphenhydrAMINE (BENADRYL) (1 mg/Kg/dose) = ____ mg (Maximum 50 mg/dose via rule-based dosing) slow IV push every 6 hours as needed for nausea or vomiting.  Second line medication. Use if first line medication ineffective or not ordered.
+(Rule: Pt weight less than 50 Kg 1 mg/kg; 50 Kg or greater 50 mg)
+LORazepam (ATIVAN) (0.025 mg/Kg/dose) =____ mg (Maximum 2 mg/dose via rule-based dosing) IV push every 6 hours as needed for nausea or vomiting.  Third line medication.  Use only when first and second line medications are ineffective or not ordered.
+(Rule: Pt weight less than 80 Kg 0.025 mg/kg; 80 Kg or greater 2 mg)
+DiphenhydrAMINE (BENADRYL) (1 mg/Kg/dose) = ____ mg (Maximum 50 mg/dose via rule-based dosing) IV push one time/day as needed for hives, rash, or swelling related to a suspected hypersensitivity reaction. ADMIN INST: Notify MD upon giving medication.
+(Rule: Pt weight less than 50 Kg 1 mg/kg; 50 Kg or greater 50 mg)
+MethylPREDNISolone (SOLU-MEDROL) (1 mg/Kg/dose) = ___ mg IV push one time/day as needed for shortness of breath, bronchospasm, or other symptom of a suspected hypersensitivity reaction not otherwise specified. ADMIN INST: Notify MD upon giving medication.
+Select ONLY one order: (Beacon AOG)
+EPINEPHrine (0.01 mg/Kg/dose) = ____ mg (Maximum 0.5 mg/dose via rule-based dosing) IM one time/day as needed for severe cardiovascular or respiratory symptoms of a suspected hypersensitivity reaction.  ADMIN INST: Notify MD upon giving medication.  Use 1 mg/mL solution. (Beacon Default) (Rule: Pt weight less than 50 Kg 0.01 mg/kg; 50 Kg or greater 0.5 mg)
+EPINEPHrine (EPIPEN JR) 0.15 mg/0.3 mL Inj Syr.  Give 0.15 mg IM one time/day as needed for severe cardiovascular or respiratory symptoms of a suspected hypersensitivity reaction ADMIN INST: Notify MD upon giving medication.  For weight 10 kg to 25 kg. (RBD Rule)
+EPINEPHrine (EPIPEN) 0.3 mg/0.3 mL Inj Syr.  Give 0.3 mg IM one time/day as needed for severe cardiovascular or respiratory symptoms of a suspected hypersensitivity reaction ADMIN INST: Notify MD upon giving medication.  For weight greater than 25 kg. (RBD Rule
+
 
 OUTPT Nursing Orders	
 Nursing Orders AALL1331 Arms A & B Pre-HSCT Bridging Therapy (OUTPT)
